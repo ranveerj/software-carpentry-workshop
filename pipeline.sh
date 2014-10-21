@@ -18,5 +18,5 @@ do
     mv $f ${f/txt/csv}
 done
 
-echo Available files
+echo Available CSV files
 ls
